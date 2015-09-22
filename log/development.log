@@ -1,0 +1,12 @@
+
+
+Started GET "/" for 127.0.0.1 at 2015-09-22 18:10:22 +0530
+Processing by StaticController#home as HTML
+  Rendered static/home.html.erb within layouts/application (13.7ms)
+Completed 200 OK in 1703ms (Views: 1683.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-09-22 18:10:24 +0530
+
+
+Started GET "/assets/static.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-09-22 18:10:24 +0530
